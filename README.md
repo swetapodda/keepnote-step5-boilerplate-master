@@ -1,5 +1,3 @@
-# keepnote-step5-boilerplate-master
-
 ## Seed code - Boilerplate for step 5 - Keep Note Assignment
 
 ### Assignment Step Description
